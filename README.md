@@ -1,1 +1,1 @@
-# google-search
+Mockup of a google search results page
